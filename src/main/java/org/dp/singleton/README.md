@@ -18,4 +18,13 @@
 2. SOLID 원칙에 위배되는 사례가 많다.
 3. TDD 단위 테스트에 애로사항이 있음.
 
+# 종류
+- Eager Initialization
+- Static block initialization
+- Lazy Initialization
+- Thread safe initialization
+- Double-Check Locking
+- <span style="background:#ffdce0">Bill Pugh Solution</span>
+- <span style="background:#ffdce0">Enum 이용</span>
+
 출처: https://inpa.tistory.com/entry/GOF-💠-싱글톤Singleton-패턴-꼼꼼하게-알아보자 [Inpa Dev 👨‍💻:티스토리]
