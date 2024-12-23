@@ -109,3 +109,5 @@
 - @Builder
 - @AllArgsConstructor(access = AccessLevel.PRIVATE)
 - @ToString
+
+- 참고 : https://inpa.tistory.com/entry/GOF-%F0%9F%92%A0-%EB%B9%8C%EB%8D%94Builder-%ED%8C%A8%ED%84%B4-%EB%81%9D%ED%8C%90%EC%99%95-%EC%A0%95%EB%A6%AC
